@@ -1,0 +1,13 @@
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp3.1\VSHelloWorld.exe
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp3.1\VSHelloWorld.deps.json
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp3.1\VSHelloWorld.runtimeconfig.json
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp3.1\VSHelloWorld.runtimeconfig.dev.json
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp3.1\VSHelloWorld.dll
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\bin\Debug\netcoreapp3.1\VSHelloWorld.pdb
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp3.1\VSHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp3.1\VSHelloWorld.AssemblyInfo.cs
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp3.1\VSHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp3.1\VSHelloWorld.dll
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp3.1\VSHelloWorld.pdb
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp3.1\VSHelloWorld.genruntimeconfig.cache
+C:\Users\Carrie\source\repos\VSHelloWorld\VSHelloWorld\obj\Debug\netcoreapp3.1\VSHelloWorld.csprojAssemblyReference.cache
